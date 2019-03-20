@@ -46,13 +46,6 @@ body {
 #jenkins-head-icon {
   bottom: -4px; }
 
-#jenkins-name-icon {
-  width: 0;
-  left: 50px;
-  bottom: -11px;
-  padding: 22px 100px 22px 90px;
-  background-image: url("../img/drupalera.png"); }
-
 #search-box {
   position: absolute;
   right: 40px;
